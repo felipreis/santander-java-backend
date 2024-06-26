@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:h2:mem:sjb2024
-    username: sjb2024
+    url: jdbc:h2:mem:sdw2023
+    username: sdw2023
     password:
   jpa:
     show-sql: true
